@@ -8,7 +8,8 @@
 
 ## **About Me**
 
-## BLUE TEAM SKILLS**
+
+- <span style="color:#0366d6;"><strong>BLUE TEAM SKILLS</strong></span>
 - 🛡️ SOC Analyst mindset focused on detection engineering and incident response
 - 🚨 Proactive monitoring, triage and in-depth investigation of security alerts
 - 🔎 Threat hunting and advanced log analysis across SIEM environments
@@ -18,7 +19,7 @@
 - 🔐 Committed to resilience, proactive defense and operational excellence
 
 
-## RED TEAM SKILLS**
+- <span style="color:#d73a49;"><strong>RED TEAM SKILLS</strong></span>
 
 - 🔍 Passionate **Bug Bounty Hunter** and **Cybersecurity Researcher**
 - 🎯 Focused on finding vulnerabilities and improving security systems
