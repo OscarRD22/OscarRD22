@@ -10,11 +10,11 @@
 
 
 - <span style="color:#0366d6;"><strong>BLUE TEAM SKILLS</strong></span>
-- 🛡️ SOC Analyst mindset focused on detection engineering and incident response
+- 🛡️ **SOC Analyst** mindset focused on detection engineering and incident response
 - 🚨 Proactive monitoring, triage and in-depth investigation of security alerts
-- 🔎 Threat hunting and advanced log analysis across SIEM environments
+- 🔎 Threat hunting and advanced log analysis across **SIEM environments**
 - 📊 Detection rule tuning and false positive reduction to improve SOC efficiency
-- ⚡ Incident response lifecycle support: identification, containment, eradication and recovery
+- ⚡ **Incident response** lifecycle support: identification, containment, eradication and recovery
 - 📈 Continuous improvement of defensive controls and security posture
 - 🔐 Committed to resilience, proactive defense and operational excellence
 
